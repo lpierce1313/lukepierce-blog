@@ -9,7 +9,7 @@ const siteMetadata = {
   siteLogo: '/static/images/signature-black.png',
   siteLogoDark: '/static/images/signature-white.png',
   image: '/static/images/avatar.jpg',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/twitter-card.jpg',
   email: 'lpierce1313@gmail.com',
   github: 'https://github.com/lpierce1313',
   twitter: 'https://twitter.com/lukepie67905472',
