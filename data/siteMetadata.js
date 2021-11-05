@@ -1,20 +1,21 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
+  title: "Luke Pierce's Blog",
+  author: 'Luke Pierce',
+  headerTitle: 'Blog',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://lukepierce.blog',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  siteLogo: '/static/images/signature-black.png',
+  siteLogoDark: '/static/images/signature-white.png',
+  image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  email: 'lpierce1313@gmail.com',
+  github: 'https://github.com/lpierce1313',
+  twitter: 'https://twitter.com/lukepie67905472',
+  facebook: 'https://www.facebook.com/luke.pierce.4/',
+  youtube: 'https://www.youtube.com/channel/UCq-k3wQb8Mqedk7baA_3TuQ',
+  linkedin: 'https://www.linkedin.com/in/luke-c-pierce/',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
@@ -44,7 +45,7 @@ const siteMetadata = {
       metadata: '0',
       // theme example: light, dark, dark_dimmed, dark_high_contrast
       // transparent_dark, preferred_color_scheme, custom
-      theme: 'light',
+      theme: 'dark',
       // theme when dark mode
       darkTheme: 'transparent_dark',
       // If the theme option above is set to 'custom`

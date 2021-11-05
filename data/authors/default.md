@@ -1,16 +1,18 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Luke Pierce
+avatar: /static/images/avatar.jpg
+occupation: Staff Software Consultant
+company: DSoft Technology, Engineering & Analysis Inc.
+email: lpierce1313@gmail.com
+twitter: https://twitter.com/lukepie67905472
+linkedin: https://www.linkedin.com/in/luke-c-pierce
+github: https://github.com/lpierce1313
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+`Luke Pierce` is a Staff Software Consultant at DSoft Technology, Engineering & Analysis Inc. He has been programming for over 4 years and plans to have his own software company someday. He primary uses AngularJS, HTML, CSS, Java, AWS, MySQL and Kubernetes to deploy and display large amounts of data which is utilized by the `Air Force Space Command`.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+His interests include `Software Development,` Fitness, being outdoors / Hiking, playing video games, mostly vintage ones, attending church and hanging out with his _Amazing_ girlfriend / friends / family
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His hope is to improve himself day by day which will include continued `investing`, improving in the `gym`, reducing `anxiety` and `stress`, becoming a better `programer`, and increasing his knowledge about anything related to `business` and `entrepreneurship`.
+
+`Anyways,` welcome to the blog. I really hope you learn something and enjoy reading about improving yourself as it has helped him.
